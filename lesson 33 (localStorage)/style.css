@@ -1,0 +1,39 @@
+.inner {
+    width: 1440px;
+    height: 100px;
+    font-family: Lato;    
+    font-size: 19px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+  }
+
+  .fon {
+    width: 1440px;
+    height: 780px;
+    background-image: url(leptop.png);
+
+  }
+
+  .title{
+    font-size: 48px;
+  }
+
+  .checkbox {
+    font-size: 12px;
+  }
+  .btn-check {
+    font-size: 16px;
+  }
+
+  .form-inner {
+    font-size: 24px;
+  }
+
+  .form {
+    width: 350px;
+    height: 248px;
+  }
